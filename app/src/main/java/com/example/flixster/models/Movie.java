@@ -30,7 +30,7 @@ public class Movie {
     }
 
     public String getPosterPath() {
-        return String.format("https://image.tmdb.org/t/p/w780/%s", posterPath);
+        return String.format("https://image.tmdb.org/t/p/original/%s", posterPath);
     }
 
     public String getBackdropPath() {
