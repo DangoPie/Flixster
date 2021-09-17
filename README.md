@@ -58,6 +58,7 @@ Horizontal Flixster
 <img src="https://github.com/DangoPie/Flixster/blob/master/HorizontalFlixster.gif" width=250><br>
 
 Vertical Flixster
+
 <img src="https://github.com/DangoPie/Flixster/blob/master/VerticalFlixster.gif" width=250><br>
 
 
